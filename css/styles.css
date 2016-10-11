@@ -2,8 +2,9 @@
 YOUR STYLES
 *******************/
 
-
-
+zoomImg {
+    opacity: 0;
+}
 
 /********************
 MEDIA QUERIES
